@@ -1,0 +1,163 @@
+YEAR,MONTH,TYPE,Incident_Counts
+2013,6,Vehicle Collision or Pedestrian Struck (with Injury),122.59597
+2013,6,Theft of Vehicle,131.19661
+2013,6,Theft of Bicycle,122.91187
+2013,6,Theft from Vehicle,931.979
+2013,6,Other Theft,374.89496
+2013,6,Offence Against a Person,301.0504
+2013,6,Mischief,382.12668
+2013,6,Break and Enter Residential/Other,328.12238
+2013,6,Break and Enter Commercial,239.83945
+2013,5,Vehicle Collision or Pedestrian Struck (with Injury),122.59597
+2013,5,Theft of Vehicle,136.71677
+2013,5,Theft of Bicycle,122.91187
+2013,5,Theft from Vehicle,951.8712
+2013,5,Other Theft,374.89496
+2013,5,Offence Against a Person,301.0504
+2013,5,Mischief,382.12668
+2013,5,Break and Enter Residential/Other,328.12238
+2013,5,Break and Enter Commercial,239.83945
+2013,4,Vehicle Collision or Pedestrian Struck (with Injury),115.83948
+2013,4,Theft of Vehicle,129.96028
+2013,4,Theft of Bicycle,116.15538
+2013,4,Theft from Vehicle,945.03937
+2013,4,Other Theft,357.6798
+2013,4,Offence Against a Person,291.21783
+2013,4,Mischief,373.6221
+2013,4,Break and Enter Residential/Other,308.05545
+2013,4,Break and Enter Commercial,235.8009
+2013,3,Vehicle Collision or Pedestrian Struck (with Injury),122.881294
+2013,3,Theft of Vehicle,137.00208
+2013,3,Theft of Bicycle,123.8416
+2013,3,Theft from Vehicle,956.26227
+2013,3,Other Theft,369.30804
+2013,3,Offence Against a Person,303.9646
+2013,3,Mischief,384.97162
+2013,3,Break and Enter Residential/Other,319.6837
+2013,3,Break and Enter Commercial,245.78937
+2013,2,Vehicle Collision or Pedestrian Struck (with Injury),107.39406
+2013,2,Theft of Vehicle,121.51482
+2013,2,Theft of Bicycle,111.070915
+2013,2,Theft from Vehicle,940.7135
+2013,2,Other Theft,320.2549
+2013,2,Offence Against a Person,274.42075
+2013,2,Mischief,345.42114
+2013,2,Break and Enter Residential/Other,274.51666
+2013,2,Break and Enter Commercial,228.44637
+2013,1,Vehicle Collision or Pedestrian Struck (with Injury),110.72654
+2013,1,Theft of Vehicle,124.84729
+2013,1,Theft of Bicycle,111.32422
+2013,1,Theft from Vehicle,949.41797
+2013,1,Other Theft,336.5484
+2013,1,Offence Against a Person,287.83377
+2013,1,Mischief,361.71463
+2013,1,Break and Enter Residential/Other,296.69617
+2013,1,Break and Enter Commercial,238.5635
+2012,12,Vehicle Collision or Pedestrian Struck (with Injury),115.0097
+2012,12,Theft of Vehicle,125.66747
+2012,12,Theft of Bicycle,107.12366
+2012,12,Theft from Vehicle,900.1025
+2012,12,Other Theft,344.30518
+2012,12,Offence Against a Person,285.61716
+2012,12,Mischief,348.3809
+2012,12,Break and Enter Residential/Other,322.97186
+2012,12,Break and Enter Commercial,248.3421
+2012,11,Vehicle Collision or Pedestrian Struck (with Injury),119.471306
+2012,11,Theft of Vehicle,135.23842
+2012,11,Theft of Bicycle,121.82768
+2012,11,Theft from Vehicle,953.19995
+2012,11,Other Theft,344.30518
+2012,11,Offence Against a Person,291.59653
+2012,11,Mischief,368.86295
+2012,11,Break and Enter Residential/Other,319.97507
+2012,11,Break and Enter Commercial,233.27449
+2012,10,Vehicle Collision or Pedestrian Struck (with Injury),114.89176
+2012,10,Theft of Vehicle,126.17373
+2012,10,Theft of Bicycle,160.27295
+2012,10,Theft from Vehicle,962.9734
+2012,10,Other Theft,388.10135
+2012,10,Offence Against a Person,286.12344
+2012,10,Mischief,393.91104
+2012,10,Break and Enter Residential/Other,314.13904
+2012,10,Break and Enter Commercial,244.88304
+2012,9,Vehicle Collision or Pedestrian Struck (with Injury),113.133766
+2012,9,Theft of Vehicle,127.93173
+2012,9,Theft of Bicycle,157.23833
+2012,9,Theft from Vehicle,955.65485
+2012,9,Other Theft,388.78943
+2012,9,Offence Against a Person,281.23978
+2012,9,Mischief,362.10962
+2012,9,Break and Enter Residential/Other,302.68356
+2012,9,Break and Enter Commercial,223.16695
+2012,8,Vehicle Collision or Pedestrian Struck (with Injury),121.375046
+2012,8,Theft of Vehicle,132.01793
+2012,8,Theft of Bicycle,191.62247
+2012,8,Theft from Vehicle,956.9792
+2012,8,Other Theft,371.3468
+2012,8,Offence Against a Person,297.662
+2012,8,Mischief,376.76465
+2012,8,Break and Enter Residential/Other,298.1508
+2012,8,Break and Enter Commercial,222.40198
+2012,7,Vehicle Collision or Pedestrian Struck (with Injury),120.5283
+2012,7,Theft of Vehicle,124.9655
+2012,7,Theft of Bicycle,204.29906
+2012,7,Theft from Vehicle,923.1207
+2012,7,Other Theft,411.27127
+2012,7,Offence Against a Person,301.0504
+2012,7,Mischief,389.7888
+2012,7,Break and Enter Residential/Other,311.77838
+2012,7,Break and Enter Commercial,233.87561
+2012,6,Vehicle Collision or Pedestrian Struck (with Injury),126.27223
+2012,6,Theft of Vehicle,125.08345
+2012,6,Theft of Bicycle,186.02554
+2012,6,Theft from Vehicle,910.81335
+2012,6,Other Theft,375.90985
+2012,6,Offence Against a Person,305.67343
+2012,6,Mischief,376.76465
+2012,6,Break and Enter Residential/Other,279.78342
+2012,6,Break and Enter Commercial,228.99852
+2012,5,Vehicle Collision or Pedestrian Struck (with Injury),120.21378
+2012,5,Theft of Vehicle,137.25987
+2012,5,Theft of Bicycle,170.80347
+2012,5,Theft from Vehicle,952.9117
+2012,5,Other Theft,404.8361
+2012,5,Offence Against a Person,308.1083
+2012,5,Mischief,386.78925
+2012,5,Break and Enter Residential/Other,279.28308
+2012,5,Break and Enter Commercial,220.38083
+2012,4,Vehicle Collision or Pedestrian Struck (with Injury),115.21529
+2012,4,Theft of Vehicle,120.89829
+2012,4,Theft of Bicycle,136.75388
+2012,4,Theft from Vehicle,944.8339
+2012,4,Other Theft,398.42645
+2012,4,Offence Against a Person,261.65198
+2012,4,Mischief,373.6221
+2012,4,Break and Enter Residential/Other,278.07278
+2012,4,Break and Enter Commercial,216.34229
+2012,3,Vehicle Collision or Pedestrian Struck (with Injury),124.13706
+2012,3,Theft of Vehicle,127.94009
+2012,3,Theft of Bicycle,131.27242
+2012,3,Theft from Vehicle,938.35583
+2012,3,Other Theft,369.30804
+2012,3,Offence Against a Person,298.39285
+2012,3,Mischief,379.6096
+2012,3,Break and Enter Residential/Other,282.71472
+2012,3,Break and Enter Commercial,226.33075
+2012,2,Vehicle Collision or Pedestrian Struck (with Injury),102.62387
+2012,2,Theft of Vehicle,110.39592
+2012,2,Theft of Bicycle,102.16266
+2012,2,Theft from Vehicle,901.0591
+2012,2,Other Theft,320.2549
+2012,2,Offence Against a Person,228.24944
+2012,2,Mischief,337.79025
+2012,2,Break and Enter Residential/Other,234.41194
+2012,2,Break and Enter Commercial,206.67612
+2012,1,Vehicle Collision or Pedestrian Struck (with Injury),105.95635
+2012,1,Theft of Vehicle,118.73419
+2012,1,Theft of Bicycle,104.00224
+2012,1,Theft from Vehicle,957.6755
+2012,1,Other Theft,356.59814
+2012,1,Offence Against a Person,287.83377
+2012,1,Mischief,354.0837
+2012,1,Break and Enter Residential/Other,294.7837
+2012,1,Break and Enter Commercial,238.5635
