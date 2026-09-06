@@ -35,4 +35,7 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
 ## Colab Notebooks (View Access)
 - EDA Notebook: [https://colab.research.google.com/drive/1nylBmM6x8BAAIXum7CSBPPicUi2WRM5c?usp=sharing]
 - ML Notebook: [https://colab.research.google.com/drive/15liXpXBrkZeZprm-4U2IC1rwJAOvp1qB?usp=sharing]
+- ## Outputs
+- `best_crime_model.pkl` - Final trained XGBoost model (saved via pickle)
+- `final_predictions.csv` - Predicted Incident_Counts for the test set (2012-2013)
   
